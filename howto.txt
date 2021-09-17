@@ -1,0 +1,7 @@
+How to run:
+
+cd into backend-api
+npm run start
+
+cd into complex-react-app
+npm run dev
